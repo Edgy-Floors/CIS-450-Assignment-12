@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Assignment 12
+ * SpellGroup.cs
+ * This is the group component of the spellComponent. It has the method to iterate through all members of the tree and call the Cast function on them.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

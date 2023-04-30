@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Assignment 12
+ * GameController.cs
+ * This script controls the game, complete with the creation of the groups and leaves. It also controls the casting of the spells.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

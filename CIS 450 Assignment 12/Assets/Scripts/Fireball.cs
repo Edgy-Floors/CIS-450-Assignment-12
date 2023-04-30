@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Assignment 12
+ * Fireball.cs
+ * This script is the leaf of the spell component, instantiated as a fireball.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

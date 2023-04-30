@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Assignment 12
+ * EffectManager.cs
+ * This script controls the effects for all the components.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

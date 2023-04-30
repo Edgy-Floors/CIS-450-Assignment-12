@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Assignment 12
+ * Flamethrower.cs
+ * This script is the leaf of the spell component, shown as a flamethrower.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

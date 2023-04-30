@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Assignment 12
+ * WaterSpell.cs
+ * This script is the leaf of the spell component, shown as a water spell.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
